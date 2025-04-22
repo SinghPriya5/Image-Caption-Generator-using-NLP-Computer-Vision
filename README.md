@@ -74,7 +74,7 @@ This image captioning model effectively interprets the content of images and gen
 - Introduce personalized captioning based on user preferences or styles.
 
 ## Credits
-- Dataset: [Flickr8k](https://forms.illinois.edu/sec/1713398)
+- Dataset: [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 - Pre-trained CNN: DenseNet201 (via Keras Applications)
 - Inspiration: Deep Learning Specialization (Coursera), Show and Tell: A Neural Image Caption Generator
 
