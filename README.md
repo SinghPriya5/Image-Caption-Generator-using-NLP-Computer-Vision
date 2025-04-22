@@ -51,9 +51,9 @@ Here are some sample predictions:
 
 | Image | Predicted Caption |
 |-------|-------------------|
-| ![Image1](samples/dog.jpg) | A dog is running through a field |
-| ![Image2](samples/couple.jpg) | A couple is walking on the beach |
-| ![Image3](samples/kids.jpg) | Children are playing in the park |
+| ![Image1](https://github.com/SinghPriya5/Image-Caption-Generator-using-NLP-Computer-Vision/blob/main/1.png) | **Two dogs are running through the water** |
+| ![Image2](https://github.com/SinghPriya5/Image-Caption-Generator-using-NLP-Computer-Vision/blob/main/2.png) | **Man is standing top of the mountain** |
+| ![Image3](https://github.com/SinghPriya5/Image-Caption-Generator-using-NLP-Computer-Vision/blob/main/3.png) | **Boy is jumping over the air** |
 
 ## Evaluation Metrics
 To evaluate the performance of the model, the following metrics were used:
